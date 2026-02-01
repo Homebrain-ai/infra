@@ -1,6 +1,6 @@
 # Platform 🚀
 
-Handles infrastructure for Homebrain-ai
+Platform repo for Homebrain-ai. Handles workflow in dev repos and deploying their code!
 
 ## Quick Start ⚡
 
