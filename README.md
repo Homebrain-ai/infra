@@ -2,6 +2,16 @@
 
 Platform repo for Homebrain-ai. Handles workflow in dev repos and deploying their code!
 
+Holds majority of logic for workflows used by other repos.
+
+## Workflows
+
+* `build-image.yml`
+* `deploy.yml`
+* `pr-template-check.yml`
+* `run-ci.yml`
+* `security.yml`
+
 ## Quick Start ⚡
 
 Create and fill out `.env`, from `.env.template`.
